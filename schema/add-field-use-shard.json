@@ -1,0 +1,10 @@
+{
+	"add-field":[
+		{
+			"name": "use_shard",
+			"type": "text_general",
+			"multiValued": false,
+			"stored": true
+		}
+	]
+}

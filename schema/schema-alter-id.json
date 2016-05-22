@@ -1,0 +1,10 @@
+{
+
+    "name": "id",
+    "type": "string",
+    "multiValued": false,
+    "indexed": true,
+    "required": false,
+    "stored": true
+
+}

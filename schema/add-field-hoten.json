@@ -1,0 +1,10 @@
+{
+  "add-field":[
+{
+    "name": "hoten",
+    "type": "text_general",
+    "multiValued": false,
+    "stored": true
+}
+]
+}

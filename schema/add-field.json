@@ -1,0 +1,11 @@
+{
+  "replace-field":[
+{
+    "name": "hoten",
+    "type": "string",
+    "multiValued": false,
+    "stored": true
+}
+
+]
+}
